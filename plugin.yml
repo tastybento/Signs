@@ -3,7 +3,7 @@ main: com.jofkos.signs.Signs
 version: ${version}
 author: Jofkos
 description: Simple sign editing.
-softdepend: [LWC, WorldGuard, Towny, QuickShop, Factions, PlotMe, NoCheatPlus, GriefPrevention, Lockette, ChestShop]
+softdepend: [LWC, WorldGuard, Towny, QuickShop, Factions, PlotMe, NoCheatPlus, GriefPrevention, Lockette, ChestShop, ASkyBlock, AcidIsland]
 
 commands:
   signs:

@@ -139,6 +139,16 @@
 			<artifactId>json-simple</artifactId>
 			<version>1.1.1</version>
 		</dependency>
+		<dependency>
+			<groupId>com.wasteofplastic</groupId>
+			<artifactId>ASkyBlock</artifactId>
+			<version>3.0.5.3</version>
+		</dependency>
+		<dependency>
+            <groupId>com.wasteofplastic</groupId>
+            <artifactId>AcidIsland</artifactId>
+            <version>3.0.5.3</version>
+        </dependency>
 	</dependencies>
 	<repositories>
 		<repository>
@@ -148,6 +158,11 @@
 		<repository>
 			<id>sk89q-repo</id>
 			<url>http://maven.sk89q.com/repo/</url>
+		</repository>
+		<repository>
+			<id>bintray-tastybento-maven-repo</id>
+			<name>bintray</name>
+			<url>http://dl.bintray.com/tastybento/maven-repo</url>
 		</repository>
 	</repositories>
 	<version>2.0</version>
